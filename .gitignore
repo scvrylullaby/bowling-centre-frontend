@@ -2,6 +2,7 @@
 node_modules/
 .env
 .knit
+.ruler
 knit.lock
 
 # IDE user config
